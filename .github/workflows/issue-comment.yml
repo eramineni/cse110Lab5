@@ -20,5 +20,5 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GIPHY"_TOKEN: ${{ secrets.GIPHY_TOKEN }}
-          comment_type: 'gif'
+          comment_type: 'gif' 
      
